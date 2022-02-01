@@ -19,6 +19,11 @@ function App() {
           Learn React
         </a>
       </header>
+      <body>
+        <div className="bubble-background">
+          
+        </div>
+      </body>
     </div>
   );
 }
